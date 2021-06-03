@@ -1,9 +1,8 @@
-# react-clothing-store
-a simple react based clothing store
+# Clothing-Store
 
-A simple clothing store created using React, making use of Redux , Firebase, Stripe and other React functionalities.
+## a simple react-based clothing store
 
-What did I learn ?
+### :pushpin: What did I learn ?
 
 - How to use redux to make a single source of truth to render the app
 - Using selectos for better optimization and usability of code. This way the selectors only transfer data that is needed and not the entirety of the state.
